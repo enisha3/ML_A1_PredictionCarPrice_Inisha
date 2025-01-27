@@ -174,7 +174,7 @@ def update_output(n_clicks, user_engine, user_mileage,user_km_driven, user_year)
             user_km_driven = user_km_driven if user_km_driven else default_km_driven
             
             pred_val = prediction(float(user_engine), float(user_mileage),float(user_km_driven), float(user_year))
-            return f" Predicted Price: {pred_val:.2f}"
+            return f" Predicted Price: {pred_val:.2f} Baht"
     except Exception as e:
         return f"Error in prediction: {str(e)}"
     
