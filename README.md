@@ -8,3 +8,5 @@ To run the file locally for A1_predicting_Car_Prices
 4. To run app.py file which is inside App folder. Open terminal and write "python App/app.py"
 5. Application will be open at 0.0.0.0:8050
 
+Screenshot
+![] (https://github.com/enisha3/ML_A1_PredictionCarPrice_Inisha/blob/main/Screenshot/Running%20App%20In%20Terminal.png)
