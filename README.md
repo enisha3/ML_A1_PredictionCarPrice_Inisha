@@ -10,4 +10,4 @@ To run the file locally for A1_predicting_Car_Prices
 
 ## Screenshot
 
-![](Screenshot/Running App In Terminal.png)
+![](https://github.com/enisha3/ML_A1_PredictionCarPrice_Inisha/blob/main/Screenshot/Running%20App%20In%20Terminal.png)
