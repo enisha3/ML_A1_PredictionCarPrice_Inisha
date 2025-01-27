@@ -10,4 +10,11 @@ To run the file locally for A1_predicting_Car_Prices
 
 ## Screenshot
 
+This screenshot shows the image of running app.py in the terminal.
 ![](https://github.com/enisha3/ML_A1_PredictionCarPrice_Inisha/blob/main/Screenshot/Running%20App%20In%20Terminal.png)
+
+This screenshot shows the image of default predicted car price.
+![](https://github.com/enisha3/ML_A1_PredictionCarPrice_Inisha/blob/main/Screenshot/Showing%20Default%20Predicted%20Car%20Price.png)
+
+This screenshot shows the image of predicted car price after the value is entered.
+![](https://github.com/enisha3/ML_A1_PredictionCarPrice_Inisha/blob/main/Screenshot/Predicted%20Car%20Price%20After%20Entering%20Values.png)
